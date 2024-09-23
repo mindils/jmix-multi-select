@@ -1,0 +1,18 @@
+/* Define your styles here */
+
+.notification-badge {
+    /*position: absolute;*/
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 24px;
+    background-color: #ff3b30;
+    color: white;
+    font-size: 14px;
+    border-radius: 12px;
+    padding: 0 6px;
+    box-sizing: border-box;
+    z-index: 100;
+    margin-left: -10px;
+    margin-bottom: -25px;
+}
